@@ -1,11 +1,5 @@
-﻿  GameEngine.cpp
-C:\Game\Game\Game\json.hpp(281,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Game\Game\Game\json.hpp(294,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Game\Game\Game\json.hpp(296,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Game\Game\Game\GameEngine.cpp(47,5): warning C4102: 'std': unreferenced label
-  main.cpp
-C:\Game\Game\Game\json.hpp(281,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Game\Game\Game\json.hpp(294,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Game\Game\Game\json.hpp(296,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-  Game.vcxproj -> C:\Game\Game\x64\Debug\Game.exe
+﻿  GameObjectManager.cpp
+C:\Game\BasicGameEngine\Game\json.hpp(281,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Game\BasicGameEngine\Game\json.hpp(294,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Game\BasicGameEngine\Game\json.hpp(296,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Game.vcxproj -> C:\Game\BasicGameEngine\x64\Debug\Game.exe
