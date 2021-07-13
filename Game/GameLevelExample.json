@@ -1,0 +1,46 @@
+{
+  "GameObjects": [
+    {
+      "className": "GameObject",
+      "Name": "Bob",
+      "Components": [
+        {
+          "className": "Component",
+          "id": 1001
+        }
+      ]
+    },
+    {
+      "className": "GameObject",
+      "Name": "Fred",
+      "Components": [
+        {
+          "className": "Component",
+          "id": 2001
+        },
+        {
+          "className": "Component",
+          "id": 2002
+        }
+      ]
+    },
+    {
+      "className": "GameObject",
+      "Name": "Mary",
+      "Components": [
+        {
+          "className": "Component",
+          "id": 3001
+        },
+        {
+          "className": "Component",
+          "id": 3002
+        },
+        {
+          "className": "Component",
+          "id": 3003
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿  AssetManager.cpp
+  GameEngine.cpp
+C:\Game\Game\Game\GameEngine.cpp(23,17): error C2079: 'inputStream' uses undefined class 'std::basic_ifstream<char,std::char_traits<char>>'
+C:\Game\Game\Game\GameEngine.cpp(23,33): error C2440: 'initializing': cannot convert from 'std::string' to 'int'
+C:\Game\Game\Game\GameEngine.cpp(23,28): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Game\Game\Game\GameEngine.cpp(24,50): error C2440: '<function-style-cast>': cannot convert from 'int' to 'std::istreambuf_iterator<char,std::char_traits<char>>'
+C:\Game\Game\Game\GameEngine.cpp(24,50): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Game\Game\Game\GameEngine.cpp(24,50): error C2664: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'std::istreambuf_iterator<char,std::char_traits<char>>' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+C:\Game\Game\Game\GameEngine.cpp(24,96): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(2956,5): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string'
+C:\Game\Game\Game\GameEngine.cpp(34,19): error C2079: 'inputStream2' uses undefined class 'std::basic_ifstream<char,std::char_traits<char>>'
+C:\Game\Game\Game\GameEngine.cpp(34,49): error C2440: 'initializing': cannot convert from 'std::string' to 'int'
+C:\Game\Game\Game\GameEngine.cpp(34,31): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Game\Game\Game\GameEngine.cpp(35,53): error C2440: '<function-style-cast>': cannot convert from 'int' to 'std::istreambuf_iterator<char,std::char_traits<char>>'
+C:\Game\Game\Game\GameEngine.cpp(35,53): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Game\Game\Game\GameEngine.cpp(35,53): error C2664: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'std::istreambuf_iterator<char,std::char_traits<char>>' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+C:\Game\Game\Game\GameEngine.cpp(35,100): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xstring(2956,5): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string'
+C:\Game\Game\Game\GameEngine.cpp(38,24): error C2039: 'initialize': is not a member of 'GameObjectManager'
+C:\Game\Game\Game\GameObjectManager.h(2): message : see declaration of 'GameObjectManager'
+C:\Game\Game\Game\GameEngine.cpp(46,18): error C2039: 'initialize': is not a member of 'RenderSystem'
+C:\Game\Game\Game\RenderSystem.h(7): message : see declaration of 'RenderSystem'
+C:\Game\Game\Game\GameEngine.cpp(48,15): error C2065: 'a': undeclared identifier
+  GameObjectManager.cpp
+  InputManager.cpp
+  json.cpp
+  main.cpp
+  RenderSystem.cpp
+  Generating Code...
