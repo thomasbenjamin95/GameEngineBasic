@@ -5,3 +5,6 @@ These are the JSON data pulled from the following file
 ![](/img/JSONFile.png)
 # Output
 ![](/img/Output.png)
+
+Feel free to look at the codes.
+This application is build on C++ pointers.
