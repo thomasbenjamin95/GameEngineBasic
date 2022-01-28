@@ -8,3 +8,4 @@ These are the JSON data pulled from the following file
 
 Feel free to look at the codes.
 This application is build with C++ pointers.
+Less memory consumption --> Faster --> More optimized 
