@@ -7,5 +7,5 @@ These are the JSON data pulled from the following file
 ![](/img/Output.png)
 
 Feel free to look at the codes.
-This application is build with C++ pointers.
+This application is build with C++ pointers. <br>
 Less memory consumption --> Faster --> More optimized 
